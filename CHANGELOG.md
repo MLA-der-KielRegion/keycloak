@@ -13,7 +13,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Security
 
 ## [0.0.2]
-### Added
+### Changed
+- Einsatzmöglichkeiten lesbarer gestaltet
+
+## [0.0.2]
+### Changed
 -  Erweiterte Beschreibung
 
 ## [0.0.1]

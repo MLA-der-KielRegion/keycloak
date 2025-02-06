@@ -6,12 +6,12 @@ Keycloak ist eine leistungsstarke Open-Source-Lösung für Identity- und Access-
 
 ### Einsatzmöglichkeiten
 
-✅ Single Sign-On (SSO): Einmalige Anmeldung für mehrere Anwendungen und Dienste.
-✅ Identity Federation: Integration mit externen Identitätsanbietern (z. B. LDAP, Active Directory, OAuth 2.0, OpenID Connect, SAML).
-✅ Benutzerverwaltung: Rollen- und Rechteverwaltung für individuelle oder gruppenbasierte Zugriffskontrolle.
-✅ Sicherheit: Unterstützung für Multi-Faktor-Authentifizierung (MFA), Passwort-Richtlinien und Token-basierte Authentifizierung.
-✅ Erweiterbarkeit: Anpassbar durch eigene Themes, Erweiterungen und Custom-Skripte.
-✅ Self-Service-Portal: Benutzer können ihre Passwörter zurücksetzen und persönliche Daten verwalten.
+- Single Sign-On (SSO): Einmalige Anmeldung für mehrere Anwendungen und Dienste.
+- Identity Federation: Integration mit externen Identitätsanbietern (z. B. LDAP, Active Directory, OAuth 2.0, OpenID Connect, SAML).
+- Benutzerverwaltung: Rollen- und Rechteverwaltung für individuelle oder gruppenbasierte Zugriffskontrolle.
+- Sicherheit: Unterstützung für Multi-Faktor-Authentifizierung (MFA), Passwort-Richtlinien und Token-basierte Authentifizierung.
+- Erweiterbarkeit: Anpassbar durch eigene Themes, Erweiterungen und Custom-Skripte.
+- Self-Service-Portal: Benutzer können ihre Passwörter zurücksetzen und persönliche Daten verwalten.
 
 ### Einsatz im Projekt
 
