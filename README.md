@@ -15,7 +15,7 @@ Keycloak ist eine leistungsstarke Open-Source-Lösung für Identity- und Access-
 
 ### Einsatz im Projekt
 
-Wir nutzen Keycloak als zentrale IDM Plattform und berechtigen damit die Zugriffe auf die MLA Plattform
+Keycloak ist der zentrale IDM und verwaltet die Berechtigungen und Zugriffe auf den MLA.
 
 
 ## Voraussetzungen
