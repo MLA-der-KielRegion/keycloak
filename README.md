@@ -22,18 +22,15 @@ Keycloak ist der zentrale IDM und verwaltet die Berechtigungen und Zugriffe auf 
 
 * Kubernetes 1.23+
 * Helm 3.8.0+
-
-### Helm Install 
+* PV provisioner support in the underlying infrastructure
 
 ## Installation
 
-TBD
-
-## Parameter
-Die wichtigen Parameter werden im values.yaml konfiguriert.
-
-
-## Enviroment Variablen
+```bash
+helm repo add bitnami https://charts.bitnami.com/bitnami
+helm repo update
+helm install keycloak bitnami/keycloak -n fiware
+```
 
 ## License
 
